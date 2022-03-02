@@ -1,5 +1,3 @@
-<img src="images/matrix.gif"></img>
-
 ### :space_invader: &nbsp;About 
 
 <p>Skilled at development, implementation, and maintenance of web/mobile applications using React, Vue, Angular, Node, Express, Laravel.
@@ -11,8 +9,9 @@ Passionate about good design, clear user experience, innovations, implementation
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.
-
-<img src="images/matrix.gif" align="center"></img>
+<p align="center">
+<img src="images/matrix.gif"></img>
+</p>
 
 <p align="center">
   <a href="mailto:mark.johnson.mdev@gmail.com?subject=Olá%20Mark%20Johnson"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
